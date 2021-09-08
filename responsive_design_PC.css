@@ -1,0 +1,56 @@
+@media screen and (min-width: 767px) { /* ウィンドウ幅が767px以上の場合に適用 */
+	#menu-bg {
+	background-color: #00FF00; /* 緑色 */
+	}
+}
+
+html, body{
+	margin-bottom: 20px;
+	background-color: yellowgreen;
+}
+
+#title{
+	text-align: center;
+	border-bottom-style: solid;
+	border-color: yellow;
+}
+
+nav{
+	width: 17%;
+	height: 100%;
+	padding: 0;
+	float: left;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+dl dd{
+	text-align: right;
+	line-height: 150%;
+}
+
+table{
+	border: solid 1px #000;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 5px;
+	border: solid 1px #000;
+	border-spacing: 0;
+	font-size: 14px;
+}
+
+td {
+	text-align: center;
+}
+
+td.kyokumei{
+	text-align: left;
+}
+
+honbun{
+	border-left-style: solid;
+}
