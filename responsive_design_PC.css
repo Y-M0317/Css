@@ -19,6 +19,13 @@ ul li{
 	list-style-type: none;
 }
 
+honbun nav{
+	width: 20%;
+	height: 100%;
+	padding: 0;
+	float: left;
+}
+
 dl dd{
 	text-align: right;
 	line-height: 150%;
@@ -46,11 +53,4 @@ td.kyokumei{
 
 honbun{
 	border-left-style: solid;
-}
-
-honbun nav{
-	width: 20%;
-	height: 100%;
-	padding: 0;
-	float: left;
 }
