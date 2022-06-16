@@ -62,7 +62,7 @@ honbun{
 	border-left-style: solid;
 }
 
-honbun > .box {
+honbun < .box {
 	height: auto;
 }
 
