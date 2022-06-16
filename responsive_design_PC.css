@@ -31,8 +31,7 @@ nav{
 	height: 100%;
 	padding: 0;
 	float: left;
-	border-color: black;
-	border-right: solid; 
+	border-right: 5px solid #000; 
 }
 
 dl dd{
