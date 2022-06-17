@@ -2,9 +2,7 @@
 	#menu-bg {
 	background-color: #00FF00; /* 緑色 */
 	}
-}
-
-html{
+	html{
 	height:100%;
 	margin-bottom: 20px;
 	background-color: yellowgreen;
@@ -71,3 +69,6 @@ honbun.box{
 	padding-bottom: 10px;
 	padding-left: 5px;
 }
+}
+
+
