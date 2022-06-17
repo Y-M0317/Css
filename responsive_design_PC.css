@@ -3,74 +3,75 @@
 	background-color: #00FF00; /* 緑色 */
 	}
 	html{
-	height:100%;
-	margin-bottom: 20px;
-	background-color: yellowgreen;
-}
+		height:100%;
+		margin-bottom: 20px;
+		background-color: yellowgreen;
+	}
 
-body{
-	height:100%;
-	margin: 0;
-	padding: 0;
-	padding-left: 5px;
-	padding-bottom: 10px; 
-}
+	body{
+		height:100%;
+		margin: 0;
+		padding: 0;
+		padding-left: 5px;
+		padding-bottom: 10px; 
+	}
 
-#title{
-	text-align: center;
-	border-bottom-style: solid;
-	border-color: yellow;
-}
+	#title{
+		text-align: center;
+		border-bottom-style: solid;
+		border-color: yellow;
+	}
 
 
 
-ul li{
-	list-style-type: none;
-}
+	ul li{
+		list-style-type: none;
+	}
 
-nav{
-	width: 20%;
-	height: 100%;
-	padding: 0;
-	float: left;
-	border-right: 5px solid #000; 
-}
+	nav{
+		width: 20%;
+		height: 100%;
+		padding: 0;
+		float: left;
+		border-right: 5px solid #000; 
+		line-height: 150%;
+	}
 
-dl dd{
-	text-align: right;
-	line-height: 150%;
-}
+	dl dd{
+		text-align: right;
+		line-height: 150%;
+	}
 
-table{
-	border: solid 1px #000;
-	border-collapse: collapse;
-}
+	table{
+		border: solid 1px #000;
+		border-collapse: collapse;
+	}
 
-th, td {
-	padding: 5px;
-	border: solid 1px #000;
-	border-spacing: 0;
-	font-size: 14px;
-}
+	th, td {
+		padding: 5px;
+		border: solid 1px #000;
+		border-spacing: 0;
+		font-size: 14px;
+	}
 
-td {
-	text-align: center;
-}
+	td {
+		text-align: center;
+	}
 
-td.kyokumei{
-	text-align: left;
-}
+	td.kyokumei{
+		text-align: left;
+	}
 
-honbun{
-	height: 100%;
-}
+	honbun{
+		height: 100%;
+	}
 
-honbun.box{
-	height: 100%;
-	min-height: 100%;
-	padding-bottom: 10px;
-	padding-left: 5px;
-}
+	honbun.box{
+		height: 100%;
+		min-height: 100%;
+		padding-bottom: 10px;
+		padding-left: 5px;
+	}
 }
 
 
