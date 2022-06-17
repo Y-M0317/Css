@@ -22,11 +22,13 @@ body{
 	border-color: yellow;
 }
 
+
+
 ul li{
 	list-style-type: none;
 }
 
-honbun.nav{
+nav{
 	width: 20%;
 	height: 100%;
 	padding: 0;
