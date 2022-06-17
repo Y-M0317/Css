@@ -1,7 +1,7 @@
 @media screen and (max-width: 767px) { /* ウィンドウ幅が767px以上の場合に適用 */
 	#menu-bg {
 	background-color: #00FF00; /* 緑色 */
-  
+	}
 html{
 	height:100%;
 	margin-bottom: 20px;
@@ -69,5 +69,4 @@ honbun.box{
 	padding-bottom: 10px;
 	padding-left: 5px;
 }
-	}
 }
