@@ -28,15 +28,6 @@
 		list-style-type: none;
 	}
 
-	nav{
-		width: 20%;
-		height: 100%;
-		padding: 0;
-		float: left;
-		border-right: 5px solid #000; 
-		line-height: 150%;
-	}
-
 	dl dd{
 		text-align: right;
 		line-height: 150%;
