@@ -77,7 +77,6 @@
 		float: left;
 		width: 20%;
 		height: auto;
-		padding: 0;
 		line-height: auto;		
 	}
 	#right{
@@ -86,6 +85,7 @@
    		left: 25%;
    		display: inline-block;
    		float right;
+		padding: 10px
 		border-left: 5px solid #000; 
 	} 
 }
