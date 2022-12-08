@@ -22,7 +22,9 @@
 		border-color: yellow;
 	}
 
-
+	nav{
+		display: block;
+	}	
 
 	ul li{
 		list-style-type: none;
