@@ -76,6 +76,19 @@
 	centering{
 		text-align: center;
 	}
+	#left{
+	        position: relative; 
+	        display: inline-block;
+		float: left;
+	}
+	#right{
+   		position: absolute;
+   		top: 6em; 
+   		left: 100px;
+   		display: inline-block;
+   		float right;
+ 		border-left: thin dotted brown;
+	} 
 }
 
 
