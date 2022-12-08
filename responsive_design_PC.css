@@ -76,10 +76,10 @@
 	        display: inline-block;
 		float: left;
 		width: 20%;
-		height: 100%;
+		height: auto;
 		padding: 0;
 		border-right: 5px solid #000; 
-		line-height: 150%;		
+		line-height: auto;		
 	}
 	#right{
    		position: absolute;
