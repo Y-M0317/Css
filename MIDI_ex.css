@@ -16,6 +16,7 @@ body{
 }
 
 .content{
+  float: right;
   margin-top: 80px;
 }
 
@@ -25,8 +26,4 @@ body{
   margin: 10px auto;
   background: #ccc;
   color: #fff;
-}
-
-nav{
-  
 }
