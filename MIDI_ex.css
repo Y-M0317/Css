@@ -12,6 +12,7 @@ body{
   padding: 5px;
   background: #333;
   color: #fff;
+  float: left;
 }
 
 .content{
