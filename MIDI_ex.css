@@ -16,7 +16,7 @@ body{
 }
 
 .content{
-  position: relative;
+  position: absolute;
   left: 15%;
 }
 
