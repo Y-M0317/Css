@@ -1,13 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .title{
   margin: 0 auto;
   padding: 0;
   width: 100%;
 }
 
-body{
-  margin: 0;
+.substance{
+  margin: 0 auto;
   padding: 0;
-  box-sizing: border-box;
+  width: 100%;
 }
 
 .site-left{
