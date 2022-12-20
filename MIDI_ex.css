@@ -38,3 +38,11 @@ body{
   left: 18%;
   top: 120px;
 }
+
+.box{
+  height: 500px;
+  width: 500px;
+  margin: 10px auto;
+  background: #ccc;
+  color: #fff;
+}
