@@ -5,12 +5,16 @@ body{
 }
 
 .title{
+  position: absolute;
+  left: 18%;
   margin: 0 auto;
   padding: 0;
   width: 100%;
 }
 
 .substance{
+  position: absolute;
+  left: 18%;
   margin: 0 auto;
   padding: 0;
   width: 100%;
