@@ -23,6 +23,7 @@ body{
 .site-left{
   position: fixed;
   top: 0;
+  width: 17%;
   height: 100%;
 }
   
