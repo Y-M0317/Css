@@ -29,7 +29,7 @@ body{
   height: 100%;
   padding: 5px;
   background: #333;
-  color: #fff;
+  color: peach;
   float: left;
 }
 
@@ -37,12 +37,4 @@ body{
   position: absolute;
   left: 18%;
   top: 120px;
-}
-
-.box{
-  height: 500px;
-  width: 500px;
-  margin: 10px auto;
-  background: #c0c;
-  color: #fff;
 }
