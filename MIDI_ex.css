@@ -9,8 +9,9 @@ body{
   top: 0;
   left: 18%;
   margin: 0 auto;
-  padding: 0;
+  padding: auto;
   width: 100%;
+  
 }
 
 .substance{
